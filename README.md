@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo  Alan Mercado</h1>
 <h3 align="center">Soy un fullstack developer apasionado</h3>
 
-- 🌱 I’m currently learning **Django y flask**
+- 🌱 I’m currently learning **Django y Go**
 
 - 💬 Ask me about **html,css,js,node js,react js, bd relacional y no relacional**
 
