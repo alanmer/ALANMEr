@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Go,Angular**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alan-mercado-37b185219/](https://www.linkedin.com/in/alan-mercado-37b185219/)
+- 👨‍💻 All of my projects are available at [https://github.com/ALANMEr](https://github.com/ALANMEr)
 
 - 💬 Ask me about **html,css,js,node js,react js, bd relacional y no relacional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jesús alan mercado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús alan mercado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-mercado-37b185219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-mercado-37b185219/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
