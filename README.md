@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, Me llamo Alan Mercado</h1>
-<h3 align="center">Soy un fullstack developer apasionado</h3>
+<h1 align="center">Hello 👋,I am Alan Mercado</h1>
+<h3 align="center">I am a passionate fullstack developer</h3>
 
 - 🌱 I’m currently learning **Go,Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALANMEr](https://github.com/ALANMEr)
 
-- 💬 Ask me about **html,css,js,node js,react js, bd relacional y no relacional**
+- 💬 Ask me about **html,css,js,node js,react js, relational and non-relational database**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
