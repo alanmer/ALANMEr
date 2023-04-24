@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **Vue,NestJs and NextJs**
 
-- 👨‍💻 All of my projects are available at [alanmercgit](https://github.com/ALANMEr)]
+- 👨‍💻 All of my projects are available at [https://github.com/ALANMEr](https://github.com/ALANMEr)
 
 - 💬 Ask me about **Javascript, Typescript, ReactJs, Angular, NodeJs, ExpressJs, Django, Python, Java, Html, Css, MySql, SqlServer, MariaDB y MongoDB. Entre otras.**
 
 - 📫 How to reach me **alanmercadoamg@gmail.com**
 
-- 📄 Know about my experiences ([alanmerlinkem](https://www.linkedin.com/in/alan-mercadoo/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/alan-mercadoo/](https://www.linkedin.com/in/alan-mercadoo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/linkeni](https://www.linkedin.com/in/alan-mercadoo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-mercadoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-mercadoo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
