@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue,NestJs and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ALANMEr](https://github.com/ALANMEr)
+- 👨‍💻 All of my projects are available at [https://github.com/ALANMEr](https://github.com/alanmer)
 
 - 💬 Ask me about **Javascript, Typescript, ReactJs, Angular, NodeJs, ExpressJs, Django, Python, Java, Html, Css, MySql, SqlServer, MariaDB y MongoDB. Entre otras.**
 
